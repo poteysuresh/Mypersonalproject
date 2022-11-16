@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>SureshTechnologies- Home Page</title>
-<link href="images/ss.jpg" rel="icon">
+<link href="images/OIP.jpg" rel="icon">
 </head>
 </head>
 <body>
